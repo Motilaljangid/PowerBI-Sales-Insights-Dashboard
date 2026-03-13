@@ -61,8 +61,8 @@ These insights can help businesses **improve decision making and identify growth
 
 ## 📷 Dashboard Preview
 
-(Dashboard 1.png)
-(Dashboard 1.png)
+![Dashboard](Dashboard 1.png)
+![Dashboard](Dashboard 2.png)
 
 ---
 
